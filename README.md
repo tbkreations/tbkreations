@@ -4,11 +4,9 @@ Full-stack software engineer at Microsoft, building customer-facing features for
 
 - **Stack:** React, TypeScript, C#/.NET, Azure, Node.js, Python
 - **Focus:** fast, safe delivery (CI/CD, feature flags, guardrails) and agentic engineering
-- **Now:** building Black Magic, a custom agentic coding harness
 - **Studying:** M.S. Computer Science (HCI), Georgia Tech
 
 ## Projects
-- **Black Magic** — custom harness for agentic coding workflows (private; overview in showcase repo)
-- **Bank Balance Tracker** — full-stack personal finance app in React, TypeScript, Node.js, PostgreSQL (private; showcase repo)
+- **[Bank Balance Tracker](https://github.com/tbkreations/bank-balance-tracker-showcase)** — full-stack household finance app in React, TypeScript, Node.js, PostgreSQL on Azure (source private; architecture and design write-up linked)
 
 [LinkedIn](https://linkedin.com/in/traelbrown)
